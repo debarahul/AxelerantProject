@@ -1,0 +1,105 @@
+2022-08-29 17:53:02,885 - root - INFO - test_addtocart
+2022-08-29 17:53:02,885 - root - INFO - test_addtocart
+2022-08-29 17:53:02,885 - root - INFO - test_addtocart
+2022-08-29 17:53:53,873 - root - INFO - Login Successful
+2022-08-29 17:53:53,873 - root - INFO - Login Successful
+2022-08-29 17:53:53,873 - root - INFO - Login Successful
+2022-08-29 17:53:53,873 - root - INFO - Starting Add To Cart Flow
+2022-08-29 17:53:53,873 - root - INFO - Starting Add To Cart Flow
+2022-08-29 17:53:53,873 - root - INFO - Starting Add To Cart Flow
+2022-08-29 17:54:53,067 - root - INFO - Product successfully added to your shopping cart, Testcase Passed
+2022-08-29 17:54:53,067 - root - INFO - Product successfully added to your shopping cart, Testcase Passed
+2022-08-29 17:54:53,067 - root - INFO - Product successfully added to your shopping cart, Testcase Passed
+2022-08-29 17:54:57,345 - root - INFO - test_baseurl
+2022-08-29 17:54:57,345 - root - INFO - test_baseurl
+2022-08-29 17:54:57,345 - root - INFO - test_baseurl
+2022-08-29 17:54:57,345 - root - INFO - Verify Base Url
+2022-08-29 17:54:57,345 - root - INFO - Verify Base Url
+2022-08-29 17:54:57,345 - root - INFO - Verify Base Url
+2022-08-29 17:57:05,710 - root - INFO - Test BaseUrl Testcase Is Passed
+2022-08-29 17:57:05,710 - root - INFO - Test BaseUrl Testcase Is Passed
+2022-08-29 17:57:05,710 - root - INFO - Test BaseUrl Testcase Is Passed
+2022-08-29 17:57:10,057 - root - INFO - test_homePageTitle
+2022-08-29 17:57:10,057 - root - INFO - test_homePageTitle
+2022-08-29 17:57:10,057 - root - INFO - test_homePageTitle
+2022-08-29 17:57:10,057 - root - INFO - Verify Home Page Title
+2022-08-29 17:57:10,057 - root - INFO - Verify Home Page Title
+2022-08-29 17:57:10,057 - root - INFO - Verify Home Page Title
+2022-08-29 17:58:06,917 - root - INFO - Home Page Title Testcase Is Passed
+2022-08-29 17:58:06,917 - root - INFO - Home Page Title Testcase Is Passed
+2022-08-29 17:58:06,917 - root - INFO - Home Page Title Testcase Is Passed
+2022-08-29 17:58:11,185 - root - INFO - test_login
+2022-08-29 17:58:11,185 - root - INFO - test_login
+2022-08-29 17:58:11,185 - root - INFO - test_login
+2022-08-29 17:58:11,185 - root - INFO - Verify The Login Flow
+2022-08-29 17:58:11,185 - root - INFO - Verify The Login Flow
+2022-08-29 17:58:11,185 - root - INFO - Verify The Login Flow
+2022-08-29 17:58:46,108 - root - INFO - Login Successfully, Testcase Passed
+2022-08-29 17:58:46,108 - root - INFO - Login Successfully, Testcase Passed
+2022-08-29 17:58:46,108 - root - INFO - Login Successfully, Testcase Passed
+2022-08-29 17:58:50,374 - root - INFO - test_logout
+2022-08-29 17:58:50,374 - root - INFO - test_logout
+2022-08-29 17:58:50,374 - root - INFO - test_logout
+2022-08-29 17:59:14,996 - root - INFO - Login Successful
+2022-08-29 17:59:14,996 - root - INFO - Login Successful
+2022-08-29 17:59:14,996 - root - INFO - Login Successful
+2022-08-29 17:59:14,996 - root - INFO - Started The Logout Flow
+2022-08-29 17:59:14,996 - root - INFO - Started The Logout Flow
+2022-08-29 17:59:14,996 - root - INFO - Started The Logout Flow
+2022-08-29 17:59:22,493 - root - INFO - Logout Successfully, Testcase Passed
+2022-08-29 17:59:22,493 - root - INFO - Logout Successfully, Testcase Passed
+2022-08-29 17:59:22,493 - root - INFO - Logout Successfully, Testcase Passed
+2022-08-29 18:02:28,281 - root - INFO - test_addtocart
+2022-08-29 18:02:28,281 - root - INFO - test_addtocart
+2022-08-29 18:02:28,281 - root - INFO - test_addtocart
+2022-08-29 18:03:18,609 - root - INFO - Login Successful
+2022-08-29 18:03:18,609 - root - INFO - Login Successful
+2022-08-29 18:03:18,609 - root - INFO - Login Successful
+2022-08-29 18:03:18,609 - root - INFO - Starting Add To Cart Flow
+2022-08-29 18:03:18,609 - root - INFO - Starting Add To Cart Flow
+2022-08-29 18:03:18,609 - root - INFO - Starting Add To Cart Flow
+2022-08-29 18:03:51,631 - root - INFO - Product successfully added to your shopping cart, Testcase Passed
+2022-08-29 18:03:51,631 - root - INFO - Product successfully added to your shopping cart, Testcase Passed
+2022-08-29 18:03:51,631 - root - INFO - Product successfully added to your shopping cart, Testcase Passed
+2022-08-29 18:03:55,859 - root - INFO - test_baseurl
+2022-08-29 18:03:55,859 - root - INFO - test_baseurl
+2022-08-29 18:03:55,859 - root - INFO - test_baseurl
+2022-08-29 18:03:55,859 - root - INFO - Verify Base Url
+2022-08-29 18:03:55,859 - root - INFO - Verify Base Url
+2022-08-29 18:03:55,859 - root - INFO - Verify Base Url
+2022-08-29 18:04:18,498 - root - INFO - Test BaseUrl Testcase Is Passed
+2022-08-29 18:04:18,498 - root - INFO - Test BaseUrl Testcase Is Passed
+2022-08-29 18:04:18,498 - root - INFO - Test BaseUrl Testcase Is Passed
+2022-08-29 18:04:22,699 - root - INFO - test_homePageTitle
+2022-08-29 18:04:22,699 - root - INFO - test_homePageTitle
+2022-08-29 18:04:22,699 - root - INFO - test_homePageTitle
+2022-08-29 18:04:22,699 - root - INFO - Verify Home Page Title
+2022-08-29 18:04:22,699 - root - INFO - Verify Home Page Title
+2022-08-29 18:04:22,699 - root - INFO - Verify Home Page Title
+2022-08-29 18:05:24,400 - root - INFO - Home Page Title Testcase Is Passed
+2022-08-29 18:05:24,400 - root - INFO - Home Page Title Testcase Is Passed
+2022-08-29 18:05:24,400 - root - INFO - Home Page Title Testcase Is Passed
+2022-08-29 18:05:28,579 - root - INFO - test_login
+2022-08-29 18:05:28,579 - root - INFO - test_login
+2022-08-29 18:05:28,579 - root - INFO - test_login
+2022-08-29 18:05:28,579 - root - INFO - Verify The Login Flow
+2022-08-29 18:05:28,579 - root - INFO - Verify The Login Flow
+2022-08-29 18:05:28,579 - root - INFO - Verify The Login Flow
+2022-08-29 18:05:56,739 - root - INFO - Login Successfully, Testcase Passed
+2022-08-29 18:05:56,739 - root - INFO - Login Successfully, Testcase Passed
+2022-08-29 18:05:56,739 - root - INFO - Login Successfully, Testcase Passed
+2022-08-29 18:06:01,077 - root - INFO - test_logout
+2022-08-29 18:06:01,077 - root - INFO - test_logout
+2022-08-29 18:06:01,077 - root - INFO - test_logout
+2022-08-29 18:06:21,243 - root - INFO - Login Successful
+2022-08-29 18:06:21,243 - root - INFO - Login Successful
+2022-08-29 18:06:21,243 - root - INFO - Login Successful
+2022-08-29 18:06:21,243 - root - INFO - Started The Logout Flow
+2022-08-29 18:06:21,243 - root - INFO - Started The Logout Flow
+2022-08-29 18:06:21,243 - root - INFO - Started The Logout Flow
+2022-08-29 18:06:25,818 - root - INFO - Logout Successfully, Testcase Passed
+2022-08-29 18:06:25,818 - root - INFO - Logout Successfully, Testcase Passed
+2022-08-29 18:06:25,818 - root - INFO - Logout Successfully, Testcase Passed
+2022-08-29 19:08:11,953 - root - INFO - test_addtocart
+2022-08-29 19:09:22,709 - root - INFO - Login Successful
+2022-08-29 19:09:22,710 - root - INFO - Starting Add To Cart Flow
