@@ -103,3 +103,33 @@
 2022-08-29 19:08:11,953 - root - INFO - test_addtocart
 2022-08-29 19:09:22,709 - root - INFO - Login Successful
 2022-08-29 19:09:22,710 - root - INFO - Starting Add To Cart Flow
+2022-08-29 23:55:18,657 - root - INFO - test_sorting
+2022-08-29 23:55:34,450 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-29 23:55:34,450 - root - INFO - Verify The Sorting
+2022-08-29 23:57:18,472 - root - INFO - test_sorting
+2022-08-29 23:57:34,272 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-29 23:57:34,272 - root - INFO - Verify The Sorting
+2022-08-29 23:59:34,300 - root - INFO - test_sorting
+2022-08-29 23:59:55,487 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-29 23:59:55,487 - root - INFO - Verify The Sorting
+2022-08-30 00:00:05,666 - root - INFO - [28.98, 30.5, 16.4]
+2022-08-30 00:00:05,667 - root - INFO - [16.4, 28.98, 30.5]
+2022-08-30 00:00:05,729 - root - INFO - The Sorting
+2022-08-30 00:05:27,537 - root - INFO - test_sorting
+2022-08-30 00:05:42,979 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 00:05:42,979 - root - INFO - Verify The Sorting
+2022-08-30 00:05:53,213 - root - INFO - The Sorting
+2022-08-30 00:07:48,753 - root - INFO - test_sorting
+2022-08-30 00:08:08,218 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 00:08:08,218 - root - INFO - Verify The Sorting
+2022-08-30 00:08:18,455 - root - INFO - The Sorting
+2022-08-30 00:08:18,455 - root - INFO - [30.5, 28.98, 16.4]
+2022-08-30 00:09:18,116 - root - INFO - test_sorting
+2022-08-30 00:10:00,297 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 00:10:00,297 - root - INFO - Verify The Sorting
+2022-08-30 00:10:08,559 - root - INFO - The Sorting
+2022-08-30 00:13:24,001 - root - INFO - test_sorting
+2022-08-30 00:13:53,335 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 00:13:53,335 - root - INFO - Verify The Sorting
+2022-08-30 00:14:01,514 - root - INFO - Compare Before And After Sorting Result
+2022-08-30 00:14:01,671 - root - ERROR - Sorting doesn't work, Testcase Failed
