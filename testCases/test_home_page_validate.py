@@ -164,7 +164,7 @@ class Test_home_page:
             self.logger.error("Newsletter Registered Un-Successful, Testcase Failed")
             assert False
 
-    """
+
     @pytest.mark.regression
     def test_link(self,setup):
         time.sleep(3)
@@ -193,8 +193,7 @@ class Test_home_page:
 
         except:
             self.logger.error("There Are Some Error While Validate The Links")
-            assert False         
-    """
+            assert False
 
     
 
