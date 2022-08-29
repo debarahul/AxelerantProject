@@ -133,3 +133,22 @@
 2022-08-30 00:13:53,335 - root - INFO - Verify The Sorting
 2022-08-30 00:14:01,514 - root - INFO - Compare Before And After Sorting Result
 2022-08-30 00:14:01,671 - root - ERROR - Sorting doesn't work, Testcase Failed
+2022-08-30 01:36:01,068 - root - INFO - test_sorting_result
+2022-08-30 01:36:17,911 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 01:36:17,911 - root - INFO - Verify The Sorting Result
+2022-08-30 01:36:26,097 - root - INFO - Compare Before And After Sorting Result
+2022-08-30 01:36:26,273 - root - ERROR - Sorting doesn't work, Testcase Failed
+2022-08-30 01:36:27,494 - root - INFO - test_checkbox_result
+2022-08-30 01:36:41,877 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 01:36:41,878 - root - INFO - Verify The Checkbox Result
+2022-08-30 01:36:41,922 - root - INFO - The Check Box Test Is Based On Value In stock
+2022-08-30 01:38:28,383 - root - INFO - test_sorting_result
+2022-08-30 01:38:45,460 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 01:38:45,460 - root - INFO - Verify The Sorting Result
+2022-08-30 01:38:53,642 - root - INFO - Compare Before And After Sorting Result
+2022-08-30 01:38:53,880 - root - ERROR - Sorting doesn't work, Testcase Failed
+2022-08-30 01:38:55,077 - root - INFO - test_checkbox_result
+2022-08-30 01:39:09,235 - root - INFO - Successfully Landed On Summer Dress Listing Page
+2022-08-30 01:39:09,236 - root - INFO - Verify The Checkbox Result
+2022-08-30 01:39:09,279 - root - INFO - The Check Box Test Is Based On Value In stock
+2022-08-30 01:39:14,522 - root - ERROR - After Checkbox Select There Are No Product, Testcase Failed
