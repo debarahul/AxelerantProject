@@ -61,9 +61,9 @@ Step 3: Created Folder Structure
 
 Step 4: Automating Test cases
 
-        Created a PageObjects class under the PageObjects package
+  	 Created a PageObjects class under the PageObjects package
 	 Created testcases under Testcases package
-		Created a conftest.py under test case for removing duplicate of driver use.
+	 	Created a conftest.py under test case for removing duplicate of driver use.
 
 step 5: Added a configuration file (.ini file) for reading common values and use in the test cases
 
