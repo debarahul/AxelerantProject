@@ -30,11 +30,11 @@ class Test_home_page:
         if url == self.baseURL:
             assert True
             self.driver.close()
-            self.logger.info("Test BaseUrl Testcase Is Passed")
+            self.logger.info("Test BaseUrl Testcase Is Passed\n")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_baseurl.png")
             self.driver.close()
-            self.logger.error("Test BaseUrl Testcase Is Failed")
+            self.logger.error("Test BaseUrl Testcase Is Failed\n")
             assert False
 
 
@@ -50,11 +50,11 @@ class Test_home_page:
         if act_title == "My Store":
             assert True
             self.driver.close()
-            self.logger.info("Home Page Title Testcase Is Passed")
+            self.logger.info("Home Page Title Testcase Is Passed\n")
         else:
             self.driver.save_screenshot(".\\Screenshots\\"+"test_homePageTitle.png")
             self.driver.close()
-            self.logger.error("Home Page Title Testcase Is Failed")
+            self.logger.error("Home Page Title Testcase Is Failed\n")
             assert False
 
 
@@ -73,11 +73,11 @@ class Test_home_page:
         if act_title == "Search - My Store":
             assert True
             self.driver.close()
-            self.logger.info("Searchbar Working, Testcase Passed")
+            self.logger.info("Searchbar Working, Testcase Passed\n")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_searchbar.png")
             self.driver.close()
-            self.logger.error("Searchbar Not Working, Testcase Failed")
+            self.logger.error("Searchbar Not Working, Testcase Failed\n")
             assert False
 
 
@@ -101,11 +101,11 @@ class Test_home_page:
         if act_title == "My account - My Store":
             assert True
             self.driver.close()
-            self.logger.info("Login Successfully, Testcase Passed")
+            self.logger.info("Login Successfully, Testcase Passed\n")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_login.png")
             self.driver.close()
-            self.logger.error("Login Un-Successfully, Testcase Failed")
+            self.logger.error("Login Un-Successfully, Testcase Failed\n")
             assert False
 
 
@@ -130,11 +130,11 @@ class Test_home_page:
         if act_title == "Login - My Store":
             assert True
             self.driver.close()
-            self.logger.info("Logout Successfully, Testcase Passed")
+            self.logger.info("Logout Successfully, Testcase Passed\n")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_logout.png")
             self.driver.close()
-            self.logger.error("Logout Un-Successfully, Testcase Failed")
+            self.logger.error("Logout Un-Successfully, Testcase Failed\n")
             assert False
 
 
@@ -153,15 +153,15 @@ class Test_home_page:
         if act_message == "Newsletter : You have successfully subscribed to this newsletter.":
             assert True
             self.driver.close()
-            self.logger.info("Newsletter Successfully Subscribed For {}, Testcase Passed".format(self.subemailid))
+            self.logger.info("Newsletter Successfully Subscribed For {}, Testcase Passed\n".format(self.subemailid))
         elif act_message == "Newsletter : This email address is already registered.":
             assert True
             self.driver.close()
-            self.logger.info("Already Registered For Newsletter And Email is {}, Testcase Passed".format(self.subemailid))
+            self.logger.info("Already Registered For Newsletter And Email is {}, Testcase Passed\n".format(self.subemailid))
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_newsletter.png")
             self.driver.close()
-            self.logger.error("Newsletter Registered Un-Successful, Testcase Failed")
+            self.logger.error("Newsletter Registered Un-Successful, Testcase Failed\n")
             assert False
 
 
@@ -189,10 +189,10 @@ class Test_home_page:
 
             self.logger.info("All link Details\nSucceed Link Count {}\nBroken Link Count {}\nMailLink Count {}\nNot a link {}".format(successLinkcount, brokenlinkCount, maillinkCount, notlinkCount))
             assert True
-            self.logger.info("Completed All Link Details")
+            self.logger.info("Completed All Link Details\n")
 
         except:
-            self.logger.error("There Are Some Error While Validate The Links")
+            self.logger.error("There Are Some Error While Validate The Links\n")
             assert False
 
     

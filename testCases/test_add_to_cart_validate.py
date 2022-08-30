@@ -42,15 +42,15 @@ class Test_Addtocart_Flow:
             self.ad.clickClose()
             assert True
             self.driver.close()
-            self.logger.info("{}, Testcase Passed".format(act_text))
+            self.logger.info("{}, Testcase Passed\n".format(act_text))
         elif act_text == "Added to your wishlist.":
             assert True
             self.driver.close()
-            self.logger.info("{}, Testcase Passed".format(act_text))
+            self.logger.info("{}, Testcase Passed\n".format(act_text))
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_addtoWishlist.png")
             self.driver.close()
-            self.logger.error("Item added to wishlist unsuccessfully, Testcase Failed")
+            self.logger.error("Item added to wishlist unsuccessfully, Testcase Failed\n")
             assert False
 
 
@@ -89,11 +89,11 @@ class Test_Addtocart_Flow:
         if element == "Product successfully added to your shopping cart":
             assert True
             self.driver.close()
-            self.logger.info("{}, Testcase Passed".format(element))
+            self.logger.info("{}, Testcase Passed\n".format(element))
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_addtocart.png")
             self.driver.close()
-            self.logger.error("Item added to cart unsuccessfully, Testcase Failed")
+            self.logger.error("Item added to cart unsuccessfully, Testcase Failed\n")
             assert False
 
 

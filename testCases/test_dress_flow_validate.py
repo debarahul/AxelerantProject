@@ -23,11 +23,11 @@ class Test_dress_flow:
         if act_title == "Summer Dresses - My Store":
             assert True
             self.driver.close()
-            self.logger.info("Successes Landed To Summer Dresses Page, Testcase Passed")
+            self.logger.info("Successes Landed To Summer Dresses Page, Testcase Passed\n")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_dressflow.png")
             self.driver.close()
-            self.logger.error("Page Title Is Different, Testcase Failed")
+            self.logger.error("Page Title Is Different, Testcase Failed\n")
             assert False
 
 
@@ -54,11 +54,11 @@ class Test_dress_flow:
         if beforelist == afterlist:
             assert True
             self.driver.close()
-            self.logger.info("Sorting is successful, Testcase Passed")
+            self.logger.info("Sorting is successful, Testcase Passed\n")
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_sorting.png")
             self.driver.close()
-            self.logger.error("Sorting doesn't work, Testcase Failed")
+            self.logger.error("Sorting doesn't work, Testcase Failed\n")
             assert False
 
 
@@ -91,11 +91,11 @@ class Test_dress_flow:
             if beforecheck == aftercheck:
                 assert True
                 self.driver.close()
-                self.logger.info("After Checkbox There Are Expected Result Coming, Testcase Passed")
+                self.logger.info("After Checkbox There Are Expected Result Coming, Testcase Passed\n")
             else:
                 self.driver.save_screenshot(".\\Screenshots\\" + "test_checkbox_result.png")
                 self.driver.close()
-                self.logger.error("After Checkbox Select There Are Different List, Testcase Failed")
+                self.logger.error("After Checkbox Select There Are Different List, Testcase Failed\n")
                 assert False
 
 
