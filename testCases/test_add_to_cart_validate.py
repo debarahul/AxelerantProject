@@ -10,7 +10,7 @@ from pageObjects.HomePage import HomePage
 from pageObjects.DressFlow import DressFlow
 
 
-class Test_Addtocart_flow:
+class Test_Addtocart_Flow:
 
     baseURL = ReadConfig.getApplicationURl()
     emailid = ReadConfig.getemailId()

@@ -152,3 +152,47 @@
 2022-08-30 01:39:09,236 - root - INFO - Verify The Checkbox Result
 2022-08-30 01:39:09,279 - root - INFO - The Check Box Test Is Based On Value In stock
 2022-08-30 01:39:14,522 - root - ERROR - After Checkbox Select There Are No Product, Testcase Failed
+2022-08-31 01:45:06,792 - root - INFO - test_placeorder
+2022-08-31 01:45:15,698 - root - INFO - Starting Place Order End TO End Flow
+2022-08-31 01:45:52,963 - root - INFO - Login Successful
+2022-08-31 01:46:08,387 - root - INFO - Order Has Been Placed Successfully, Testcase Passed
+2022-08-31 01:49:12,779 - root - INFO - test_placeorder
+2022-08-31 01:49:27,170 - root - INFO - Starting Place Order End TO End Flow
+2022-08-31 01:50:11,251 - root - INFO - Login Successful
+2022-08-31 01:50:27,795 - root - INFO - Order Has Been Placed Successfully, Testcase Passed
+2022-08-31 01:50:27,815 - root - INFO - Here is a short summary of order:
+YOUR CHECK MUST INCLUDE:
+- Payment amount. $103.98
+- Payable to the order of pradeep
+- Mail to xyz
+- Do not forget to include your order reference MFCFMKWKD.
+- An email has been sent to you with this information.
+- Your order will be sent as soon as we receive your payment.
+- If you have questions, comments or concerns, please contact our customer service department..
+2022-08-31 01:53:11,081 - root - INFO - test_placeorder
+2022-08-31 01:53:21,823 - root - INFO - Starting Place Order End TO End Flow
+2022-08-31 01:53:50,135 - root - INFO - Login Successful
+2022-08-31 01:54:06,948 - root - INFO - Order Has Been Placed Successfully, Testcase Passed
+2022-08-31 01:54:06,967 - root - INFO - Here is a short summary of order:
+YOUR CHECK MUST INCLUDE:
+- Payment amount. $103.98
+- Payable to the order of pradeep
+- Mail to xyz
+- Do not forget to include your order reference GSSEFOVGH.
+- An email has been sent to you with this information.
+- Your order will be sent as soon as we receive your payment.
+- If you have questions, comments or concerns, please contact our customer service department..
+2022-08-31 02:00:07,406 - root - INFO - test_placeorder
+2022-08-31 02:00:17,993 - root - INFO - Starting Place Order End TO End Flow
+2022-08-31 02:00:49,349 - root - INFO - Login Successful
+2022-08-31 02:01:06,228 - root - INFO - Here is a short summary of order:
+YOUR CHECK MUST INCLUDE:
+- Payment amount. $103.98
+- Payable to the order of pradeep
+- Mail to xyz
+- Do not forget to include your order reference RLTBUTYUE.
+- An email has been sent to you with this information.
+- Your order will be sent as soon as we receive your payment.
+- If you have questions, comments or concerns, please contact our customer service department..
+2022-08-31 02:01:06,228 - root - INFO - Order Has Been Placed Successfully, Testcase Passed
+
